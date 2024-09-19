@@ -1,5 +1,7 @@
-DailyNewsFetcherPython
-A simple Python project that fetches daily news on various topics using the NewsAPI and the requests module.
+### DailyNewsFetcherPython
+
+
+# A simple Python project that fetches daily news on various topics using the NewsAPI and the requests module.
 
 Features
 Fetches the latest news articles from a variety of sources.
